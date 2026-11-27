@@ -1,3 +1,8 @@
+## v0.2.10 — 2026-11-27
+
+Fixes a crash under Wine/Proton a few seconds after reaching the main menu when D2GL is on and the update check runs.
+Linux/Wine players on v0.2.8 or v0.2.9 with D2GL on need to install this release by hand once, because the old version crashes before its updater can finish.
+
 ## v0.2.9 — 2026-11-27
 
 ### Fixed
