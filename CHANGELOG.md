@@ -1,3 +1,9 @@
+## v0.2.7 — 2026-11-27
+
+### Fixed
+- **D2GL launches with any shortcut:** with "Use D2GL renderer" on, the game now starts D2GL correctly whether you launch with no flag, `-w` or `-3dfx` — no more "-w not compatible" refusal or 0xc0000142 error.
+- **D2GL window size:** opens windowed at your normal Diablo II size (800x600 scaled like stock D2 on high-DPI screens), centred. It's set once (this update resets the half-size window from earlier versions); after that your own window size and position are kept.
+
 ## v0.2.6 — 2026-11-27
 
 ### Fixed
