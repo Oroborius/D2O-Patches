@@ -1,3 +1,8 @@
+## v0.2.8 — 2026-11-27
+
+### Fixed
+- **Updater:** longer network timeouts for slow connections, and every failed update now writes the exact reason to the log (`QoL update failed: <step> <code>`), so problems can be fixed quickly. If "Update" keeps failing for you, download `version.dll` from this release and replace the one in your game folder once.
+
 ## v0.2.7 — 2026-11-27
 
 ### Fixed

@@ -2,7 +2,7 @@
 
 Client quality-of-life patches for vanilla Diablo II: Lord of Destruction 1.14d.
 
-[Download v0.2.7](https://github.com/Oroborius/D2O-Patches/releases/download/v0.2.7/D2O-QoL-Patch-v0.2.7.zip)
+[Download v0.2.8](https://github.com/Oroborius/D2O-Patches/releases/download/v0.2.8/D2O-QoL-Patch-v0.2.8.zip)
 
 Install by copying version.dll next to Game.exe in your vanilla Diablo II: Lord of Destruction 1.14d folder.
 
