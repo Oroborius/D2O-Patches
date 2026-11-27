@@ -1,3 +1,8 @@
+## v0.2.6 — 2026-11-27
+
+### Fixed
+- **D2GL windowed by default:** D2GL now opens in a window at your normal Diablo II resolution (800x600, or 640x480 if that's what you use), centred. Launching with `-w` works again (D2GL's own windowed mode is used instead of the stock one it can't run under), and launching with no flag no longer crashes — the game always starts on D2GL's Glide backend when "Use D2GL renderer" is on. You can still switch D2GL to fullscreen with Ctrl+O; launching with `-w` always keeps it windowed.
+
 ## v0.2.5 — 2026-11-27
 
 ### Fixed
