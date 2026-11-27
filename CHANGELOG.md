@@ -1,3 +1,8 @@
+## v0.2.9 — 2026-11-27
+
+### Fixed
+- **D2GL "HD in game text" crash:** hovering a player with a long or coloured name no longer crashes when D2GL's HD text is on. With HD text on, the hover pop-up shows the plain name (up to 15 characters); with HD text off, full long names and colours are unchanged.
+
 ## v0.2.8 — 2026-11-27
 
 ### Fixed
