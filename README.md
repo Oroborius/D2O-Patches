@@ -2,7 +2,7 @@
 
 Client quality-of-life patches for vanilla Diablo II: Lord of Destruction 1.14d.
 
-[Download v0.2.3](https://github.com/Oroborius/D2O-Patches/releases/download/v0.2.3/D2O-QoL-Patch-v0.2.3.zip)
+[Download v0.2.4](https://github.com/Oroborius/D2O-Patches/releases/download/v0.2.4/D2O-QoL-Patch-v0.2.4.zip)
 
 Install by copying version.dll next to Game.exe in your vanilla Diablo II: Lord of Destruction 1.14d folder.
 
@@ -10,7 +10,9 @@ Uninstall by deleting version.dll.
 
 Open D2O QoL in the bottom-right of the main menu. Use the checkboxes to turn patches on or off. The game saves your choices in D2O-QoL.ini right away and uses them the next time you start it.
 
-The game checks for updates when the main menu opens. Clear the Check for updates checkbox to stop all update checks and hide the Update button. Turn it back on to check again. When an update is available, click Update to download a signed release. The game verifies the GitHub download and applies it the next time you start the game. Your choices carry over. New patches start on, and removed patches are dropped from the settings.
+The game checks for updates when the main menu opens (again after 15 minutes if you return to it). Clear the Auto-check updates checkbox to stop automatic checks. The Check updates button looks right now (once a minute at most). When an update is available the button becomes Update: click it to download a signed release. The game verifies the GitHub download and applies it the next time you start the game.
+
+Get D2GL appears while D2GL is not installed. After you agree, it downloads the official D2GL v1.3.3 release (Bayaraa, GPL-3.0, https://github.com/bayaraa/d2gl), checks its SHA-256, and unpacks it next to Game.exe. Replaced files are kept as *.before-d2gl and the D2GL license is saved as D2GL-LICENSE.md. Restart the game to use it. Your choices carry over. New patches start on, and removed patches are dropped from the settings.
 
 ## Included features
 

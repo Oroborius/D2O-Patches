@@ -1,3 +1,7 @@
+## v0.2.4 — 2026-11-27
+
+Added the ability for the patch to fetch external resources (such as d2gl downloads)
+
 ## v0.2.3 — 2026-11-27
 
 - Added chat-emoji — Show item, rune and skill icons and coloured badges in game chat when players type emoji codes.
