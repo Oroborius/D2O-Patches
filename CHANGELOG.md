@@ -1,3 +1,15 @@
+## v0.2.2 — 2026-11-27
+
+- Added d2gl-renderer — Clear Use D2GL renderer and restart to use the stock windowed renderer when D2GL is installed.
+- Added mouse-lock — Press Ctrl+L to lock or release the mouse cursor inside the game window.
+- Added no-character-save — Keeps your local character save unchanged during TCP/IP and single-player games.
+
+D2GL support, will add a downloader later but you can load it up now if you want.
+Mouse lock via Ctrl+L
+And a toggleable "make your characters not save" button. In QoL patches.
+
+Also makes QoL Patch text less wide, version stored inside.
+
 ## v0.2.1 — 2026-11-27
 
 - Changed item-tooltip-overflow-fix — Prevents crashes when displaying unusually long item tooltips.
