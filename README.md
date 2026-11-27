@@ -2,7 +2,7 @@
 
 Client quality-of-life patches for vanilla Diablo II: Lord of Destruction 1.14d.
 
-[Download v0.1.0](releases/v0.1.0/D2O-QoL-Patch-v0.1.0.zip)
+[Download v0.2.0](https://github.com/Oroborius/D2O-Patches/releases/download/v0.2.0/D2O-QoL-Patch-v0.2.0.zip)
 
 Install by copying version.dll next to Game.exe in your vanilla Diablo II: Lord of Destruction 1.14d folder.
 
@@ -10,7 +10,7 @@ Uninstall by deleting version.dll.
 
 Open D2O QoL in the bottom-right of the main menu. Use the checkboxes to turn patches on or off. The game saves your choices in D2O-QoL.ini right away and uses them the next time you start it.
 
-The game checks for updates when the main menu opens. Clear the Check for updates checkbox to stop all update checks and hide the Update button. Turn it back on to check again. When an update is available, click Update to download a signed release. The game verifies the download and applies it the next time you start the game. Your choices carry over. New patches start on, and removed patches are dropped from the settings.
+The game checks for updates when the main menu opens. Clear the Check for updates checkbox to stop all update checks and hide the Update button. Turn it back on to check again. When an update is available, click Update to download a signed release. The game verifies the GitHub download and applies it the next time you start the game. Your choices carry over. New patches start on, and removed patches are dropped from the settings.
 
 ## Included features
 

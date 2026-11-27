@@ -1,3 +1,10 @@
+## v0.2.0 — 2026-11-27
+
+- Changed life-globe-true-values — Displays accurate life and mana values above the usual limit.
+- Changed overhead-long-names — Shows full player names on compatible servers and, with the party patch, supports optional Discord account linking.
+
+Fixes a crash. Also makes some server checks for authenticity purposes.
+
 ## v0.1.0 — 2026-11-27
 
 - Added auto-target-hold — Hold the selected skill on the nearest hostile player when the server allows it for your hacked character.
