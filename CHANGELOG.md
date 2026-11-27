@@ -1,3 +1,10 @@
+## v0.2.3 — 2026-11-27
+
+- Added chat-emoji — Show item, rune and skill icons and coloured badges in game chat when players type emoji codes.
+- Changed overhead-long-names — Shows full player names on compatible servers and, with the party patch, supports optional Discord account linking.
+
+Emojis and fixed supporter names not rendering right in QoL patches.
+
 ## v0.2.2 — 2026-11-27
 
 - Added d2gl-renderer — Clear Use D2GL renderer and restart to use the stock windowed renderer when D2GL is installed.
