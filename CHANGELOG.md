@@ -1,3 +1,9 @@
+## v0.2.1 — 2026-11-27
+
+- Changed item-tooltip-overflow-fix — Prevents crashes when displaying unusually long item tooltips.
+
+Fixes the hover crash entirely :)
+
 ## v0.2.0 — 2026-11-27
 
 - Changed life-globe-true-values — Displays accurate life and mana values above the usual limit.
