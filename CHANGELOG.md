@@ -1,3 +1,8 @@
+## v0.2.5 — 2026-11-27
+
+### Fixed
+- **D2GL renderer:** after installing D2GL from the QoL menu (or manually), "Use D2GL renderer" now actually switches the game to D2GL. Windowed (-w) or Direct3D settings no longer bypass it; the game starts on D2GL's Glide backend, and D2GL's own windowed mode applies. Restart the game once after updating.
+
 ## v0.2.4 — 2026-11-27
 
 Added the ability for the patch to fetch external resources (such as d2gl downloads)
