@@ -1,3 +1,8 @@
+## v0.3.3 — 2026-11-28
+
+- Fixed being disconnected with "Patch manifest verification failed" on some servers after v0.3.2.
+- The QoL panels now credit Oroborius of eroticsMafia.
+
 ## v0.3.2 — 2026-11-28
 
 - Added char-list-tools — Adds move up, pin and read-only icons to each character on the character-select screen; a read-only character is never saved.
