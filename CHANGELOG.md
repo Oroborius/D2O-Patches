@@ -1,3 +1,8 @@
+## v0.2.11 — 2026-11-28
+
+### New
+- **Live options:** map reveal, mouse lock, auto-target hold, chat emoji, life globe true values, long overhead names, party list scroll and unlimited, item tooltip overflow fix and CPU fix now switch on or off the moment you click them in the D2O QoL menu. Options marked "(restart)" still apply on the next start.
+
 ## v0.2.10 — 2026-11-27
 
 Fixes a crash under Wine/Proton a few seconds after reaching the main menu when D2GL is on and the update check runs.
