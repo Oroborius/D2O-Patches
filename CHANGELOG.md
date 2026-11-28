@@ -1,3 +1,12 @@
+## v0.3.0 — 2026-11-28
+
+- Changed life-globe-true-values — Displays accurate life and mana values above the usual limit in a compact vertical fraction.
+- Added orb-percent — Shows your life and mana as a percentage in gold text on the life and mana orbs.
+
+- Life and mana hover text is now a vertical fraction (current over max), centred above each orb, and never runs off the screen.
+- New option "Life/mana % on orbs" (off by default): shows your life and mana percentage in gold on the orbs. Toggles live.
+- The character save option now has a short name in the QoL menu ("No character save") instead of showing only "(restart)".
+
 ## v0.2.11 — 2026-11-28
 
 ### New

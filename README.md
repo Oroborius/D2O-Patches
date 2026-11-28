@@ -2,7 +2,7 @@
 
 Client quality-of-life patches for vanilla Diablo II: Lord of Destruction 1.14d.
 
-[Download v0.2.11](https://github.com/Oroborius/D2O-Patches/releases/download/v0.2.11/D2O-QoL-Patch-v0.2.11.zip)
+[Download v0.3.0](https://github.com/Oroborius/D2O-Patches/releases/download/v0.3.0/D2O-QoL-Patch-v0.3.0.zip)
 
 Install by copying version.dll next to Game.exe in your vanilla Diablo II: Lord of Destruction 1.14d folder.
 
@@ -24,11 +24,12 @@ Get D2GL appears while D2GL is not installed. After you agree, it downloads the 
 - Disable Battle.net button — Disables the Battle.net entry on the main menu.
 - Faster TCP/IP joins — Shortens the loading wait when joining a TCP/IP game.
 - Prevent long item tooltip crashes — Prevents crashes when displaying unusually long item tooltips.
-- Show high life and mana values — Displays accurate life and mana values above the usual limit.
+- Show high life and mana values — Displays accurate life and mana values above the usual limit in a compact vertical fraction.
 - Reveal maps on private servers — Shows the automap when a compatible private server requests it.
 - Mouse lock (Ctrl+L) — Press Ctrl+L to lock or release the mouse cursor inside the game window.
 - Run multiple game windows — Allows more than one game window to run at once.
 - Never overwrite my character save — Keeps your local character save unchanged during TCP/IP and single-player games.
+- Life/mana % on orbs — Shows your life and mana as a percentage in gold text on the life and mana orbs.
 - Long names over players — Shows full player names on compatible servers and, with the party patch, supports optional Discord account linking.
 - Party list: scroll through every player — Adds scrolling to the party screen for larger groups.
 - Prevent crashes in larger parties — Keeps the party screen stable when a host sends more than eight player records.
