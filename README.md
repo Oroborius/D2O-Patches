@@ -2,7 +2,7 @@
 
 Client quality-of-life patches for vanilla Diablo II: Lord of Destruction 1.14d.
 
-[Download v0.3.1](https://github.com/Oroborius/D2O-Patches/releases/download/v0.3.1/D2O-QoL-Patch-v0.3.1.zip)
+[Download v0.3.2](https://github.com/Oroborius/D2O-Patches/releases/download/v0.3.2/D2O-QoL-Patch-v0.3.2.zip)
 
 Install by copying version.dll next to Game.exe in your vanilla Diablo II: Lord of Destruction 1.14d folder.
 
@@ -17,6 +17,7 @@ Get D2GL appears while D2GL is not installed. After you agree, it downloads the 
 ## Included features
 
 - Auto-attack hostile players (hacked only) — Hold the selected skill on the nearest hostile player when the server allows it for your hacked character.
+- Character list tools — Adds move up, pin and read-only icons to each character on the character-select screen; a read-only character is never saved.
 - Chat emoji — Show item, rune and skill icons and coloured badges in game chat when players type emoji codes.
 - Lower CPU use — Reduces CPU use when the game is idle.
 - Prevent stat bar crashes — Prevents a crash when a stat bar displays an unusually large value.

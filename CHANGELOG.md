@@ -1,3 +1,11 @@
+## v0.3.2 — 2026-11-28
+
+- Added char-list-tools — Adds move up, pin and read-only icons to each character on the character-select screen; a read-only character is never saved.
+
+- New "Character list tools": on the character select screen, pin characters to the top (star), move them up (arrow), or make one read-only so it is never saved (checkbox).
+- D2GL: your D2GL display settings are no longer reset to windowed on every launch.
+- The patch now tells the server its version, so .version can show it.
+
 ## v0.3.1 — 2026-11-28
 
 - Changed hyper-join — Shortens the loading wait when joining a TCP/IP game.
