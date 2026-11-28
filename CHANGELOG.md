@@ -1,3 +1,13 @@
+## v0.3.1 — 2026-11-28
+
+- Changed hyper-join — Shortens the loading wait when joining a TCP/IP game.
+- Changed no-character-save — Keeps your local character save unchanged during TCP/IP and single-player games.
+
+- Fixed UI and text smearing with D2GL motion prediction on.
+- New "QoL Patches" entry in the in-game Esc menu, in a framed panel: change patches without leaving the game.
+- "No character save" now switches on and off instantly, no restart.
+- Faster TCP/IP joins: from clicking OK to playing in about 0.6 s (was about 1.5 s).
+
 ## v0.3.0 — 2026-11-28
 
 - Changed life-globe-true-values — Displays accurate life and mana values above the usual limit in a compact vertical fraction.
